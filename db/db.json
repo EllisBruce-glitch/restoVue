@@ -1,0 +1,44 @@
+{
+  "users": [
+    {
+      "email": "bruce@gmail.com",
+      "name": "bruce",
+      "password": "123",
+      "id": 1
+    },
+    {
+      "email": "test@test.com",
+      "name": "nametest",
+      "password": "123",
+      "id": 2
+    },
+    {
+      "email": "brucetest@gmail.com",
+      "name": "brucetest",
+      "password": "123",
+      "id": 3
+    }
+  ],
+  "restaurants": [
+    {
+      "name": "Mang Inasal",
+      "address": "Sm Olongapo",
+      "contact": "123-3456-6",
+      "id": 1
+    }
+  ],
+  "codes": [
+    {
+      "code": "1011",
+      "id": 1
+    },
+    {
+      "code": "",
+      "id": 2
+    },
+    {
+      "code": "123123123",
+      "id": 3
+    }
+  ]
+}
